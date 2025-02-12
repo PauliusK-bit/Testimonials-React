@@ -1,0 +1,25 @@
+:root {
+  --color-primary: #1200ff;
+  --color-white: white;
+  --color-black: black;
+  --color-bg: #f2f2f2;
+}
+
+body {
+  background-color: var(--color-bg);
+}
+
+.container {
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.content-wrapper {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  gap: 30px;
+  align-items: start;
+}

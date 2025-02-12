@@ -1,0 +1,12 @@
+.header-element {
+  display: flex;
+  background-color: greenyellow;
+  justify-content: center;
+  align-items: center;
+  height: 500px;
+}
+
+.header-image {
+  font-size: 50px;
+  color: white;
+}

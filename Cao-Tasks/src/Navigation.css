@@ -1,0 +1,16 @@
+.navigation-element {
+  background-color: rgb(0, 0, 50);
+}
+
+.navigation-bar {
+  display: flex;
+}
+
+a {
+  margin-left: 50px;
+  text-decoration: none;
+  color: white;
+  font-size: 20px;
+  padding-bottom: 30px;
+  padding-top: 30px;
+}

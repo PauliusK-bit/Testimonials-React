@@ -1,0 +1,4 @@
+.sidebar-content {
+  display: grid;
+  row-gap: 50px;
+}
